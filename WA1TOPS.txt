@@ -1,0 +1,8 @@
+WELL NAME	ROCK UNIT	DEPTH
+WALAKPA 1	Surficial Deposits and/or Gubik Formation	19
+WALAKPA 1	Torok Formation	50
+WALAKPA 1	Pebble Shale Unit	1700
+WALAKPA 1	Kingak Shale	2090
+WALAKPA 1	Sag River Sandstone	3220
+WALAKPA 1	Shublik Formation	3260
+WALAKPA 1	Basement Complex	3630
